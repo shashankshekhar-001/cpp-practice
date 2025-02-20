@@ -3,15 +3,13 @@ using namespace std;
 
     int main()
     {
-        int *pointre = nullptr;
+        int *pointer = nullptr;
         int x =123;
 
         pointer = &x;
 
         if(pointer == nulloptr){
-            cout << ""
+            cout << "lol";
         }
-
-
         return 0;
     }
